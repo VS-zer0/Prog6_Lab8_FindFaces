@@ -2,7 +2,7 @@
 ### Смирнов В. С.
 
 ## Поиск лиц на фотографии
-![image](./findFacesPhoto.jpg)
+![image](./FindFacesPhoto.jpg)
 
 ## Поиск лиц на видео с веб-камеры
-![image](./findFacesVideo.gif)
+![image](./FindFacesVideo.gif)
