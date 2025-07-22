@@ -4,5 +4,3 @@
 ## Поиск лиц на фотографии
 ![image](./FindFacesPhoto.jpg)
 
-## Поиск лиц на видео с веб-камеры
-![image](./findFacesVideo.gif)
